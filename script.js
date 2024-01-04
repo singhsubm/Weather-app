@@ -1,7 +1,7 @@
 const search = document.querySelector('#search-button');
 const cityInput = document.querySelector('#input');
 
-const API_KEY = '6041527b44cd52061a1e9cb5594dc69b';
+const API_KEY = '';
 
 const weatherCardDiv =document.querySelector
 ('#cards');
